@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruta de Viatge (7 dies)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        .dia {
+            margin-bottom: 20px;
+        }
+        .info {
+            background-color: #ecf0f1;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .cost {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Ruta de Viatge (7 dies)</h1>
+
+    <div class="dia">
+        <h2>Dia 1: Sortida de Barcelona → Arribada a València</h2>
+        <div class="info">
+            <p><strong>Transport:</strong> Tren AVE de Barcelona a València (aproximadament 3 hores).</p>
+            <p><strong>Cost estimat:</strong> <span class="cost">40-60€</span></p>
+            <p><strong>Allotjament a València:</strong> Hostel o hotel econòmic (25-50€ per nit).</p>
+            <p><strong>Menjar:</strong> Sopar típic valencià (15-20€).</p>
+        </div>
+    </div>
+
+    <div class="dia">
+        <h2>Dia 2: València</h2>
+        <div class="info">
+            <p><strong>Activitats:</strong> Visita Ciutat de les Arts i les Ciències, passeig pel Jardí del Túria, visita a la platja.</p>
+            <p><strong>Transport local:</strong> Valencià, caminant o bicicleta pública.</p>
+            <p><strong>Allotjament:</strong> Mateix hotel o hostel.</p>
+            <p><strong>Menjar:</strong> Esmorzar, dinar i sopar (30-40€).</p>
+        </div>
+    </div>
+
+    <div class="dia">
+        <h2>Dia 3: València → Almeria</h2>
+        <div class="info">
+            <p><strong>Transport:</strong> Bus o tren de València a Almeria (aproximadament 6-7 hores).</p>
+            <p><strong>Cost estimat:</strong> <span class="cost">40-50€</span></p>
+            <p><strong>Allotjament a Almeria:</strong> Hotel o hostel econòmic (25-50€).</p>
+            <p><strong>Menjar:</strong> Sopar a Almeria (15-20€).</p>
+        </div>
+    </div>
+
+    <div class="dia">
+        <h2>Dia 4: Almeria → Madrid</h2>
+        <div class="info">
+            <p><strong>Transport:</strong> Tren o autobús d'Almeria a Madrid (aproximadament 6-8 hores).</p>
+            <p><strong>Cost estimat:</strong> <span class="cost">50-70€</span></p>
+            <p><strong>Allotjament a Madrid:</strong> Hostel o hotel econòmic (30-50€).</p>
+            <p><strong>Activitats:</strong> Visitar el Museu del Prado, passeig pel Parc del Retiro.</p>
+            <p><strong>Menjar:</strong> Menjar típic madrileny (30-40€).</p>
+        </div>
+    </div>
+
+    <div class="dia">
+        <h2>Dia 5: Madrid → Bilbao</h2>
+        <div class="info">
+            <p><strong>Transport:</strong> Tren o autobús de Madrid a Bilbao (aproximadament 5-6 hores).</p>
+            <p><strong>Cost estimat:</strong> <span class="cost">50-60€</span></p>
+            <p><strong>Allotjament a Bilbao:</strong> Hotel o hostel (30-50€).</p>
+            <p><strong>Activitats:</strong> Visita al Museu Guggenheim, passeig pel Casco Viejo.</p>
+            <p><strong>Menjar:</strong> Esmorzar, dinar i sopar (30-40€).</p>
+        </div>
+    </div>
+
+    <div class="dia">
+        <h2>Dia 6: Bilbao → Saragossa</h2>
+        <div class="info">
+            <p><strong>Transport:</strong> Tren o autobús de Bilbao a Saragossa (aproximadament 4-5 hores).</p>
+            <p><strong>Cost estimat:</strong> <span class="cost">30-40€</span></p>
+            <p><strong>Allotjament a Saragossa:</strong> Hotel o hostel econòmic (25-50€).</p>
+            <p><strong>Activitats:</strong> Visita la Basílica del Pilar, passeig pel centre històric.</p>
+            <p><strong>Menjar:</strong> Dinar i sopar a Saragossa (30-40€).</p>
+        </div>
+    </div>
+
+    <div class="dia">
+        <h2>Dia 7: Saragossa → Barcelona (Tornada)</h2>
+        <div class="info">
+            <p><strong>Transport:</strong> Tren AVE o autobús (aproximadament 1,5-2 hores).</p>
+            <p><strong>Cost estimat:</strong> <span class="cost">25-50€</span></p>
+            <p><strong>Menjar:</strong> Dinar durant el trajecte o a Barcelona (20-30€).</p>
+        </div>
+    </div>
+        <Table>
+    <div class="dia">
+        <h2>Cost aproximat:</h2>
+        <div class="info">
+            <p><strong>Transport total:</strong> Aproximadament 270-380€</p>
+            <p><strong>Allotjament total (6 nits):</strong> Aproximadament 150-300€</p>
+            <p><strong>Menjar (7 dies):</strong> Aproximadament 180-280€</p>
+            <p><strong>Total estimat:</strong> Entre 600€ i 960€, depenent de les opcions d’allotjament i menjar.</p>
+        </div>
+    </div>
+        <table>
+</body>
+<iframe src="https://www.google.com/maps/embed?pb=!1m54!1m8!1m3!1d3124579.389027078!2d-3.6811462!3d40.1122685!3m2!1i1024!2i768!4f13.1!4m43!3e0!4m5!1s0x12a4bc87d8dda1f5%3A0x62a5c003c7b27b8!2sSanta%20Coloma%20de%20Gramanet!3m2!1d41.450873699999995!2d2.2110648999999998!4m5!1s0xd604f4cf0efb06f%3A0xb4a351011f7f1d39!2sValencia!3m2!1d39.4738338!2d-0.3756348!4m5!1s0xd7a9e00ecccf2c1%3A0x8d9da01f8ebc485e!2zQWxtZXLDrWE!3m2!1d36.8512151!2d-2.4521658!4m5!1s0xd422997800a3c81%3A0xc436dec1618c2269!2sMadrid!3m2!1d40.4167279!2d-3.7032905!4m5!1s0xd4e4e27664b89b9%3A0x6534acc41e95a645!2sBilbao%2C%20Vizcaya!3m2!1d43.2633799!2d-2.9348121!4m5!1s0xd5914dd5e618e91%3A0x49df13f1158489a8!2sZaragoza!3m2!1d41.647433899999996!2d-0.8861450999999999!4m5!1s0x12a4bc87d8dda1f5%3A0x62a5c003c7b27b8!2sSanta%20Coloma%20de%20Gramanet!3m2!1d41.450873699999995!2d2.2110648999999998!5e0!3m2!1ses!2ses!4v1727693389995!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</html>
